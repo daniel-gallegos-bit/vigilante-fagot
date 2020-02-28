@@ -1,0 +1,16 @@
+C:\xampp\htdocs\Scarecrow\backend\Scarecrow.Core\bin\Debug\netstandard2.0\Scarecrow.Core.deps.json
+C:\xampp\htdocs\Scarecrow\backend\Scarecrow.Core\bin\Debug\netstandard2.0\Scarecrow.Core.dll
+C:\xampp\htdocs\Scarecrow\backend\Scarecrow.Core\bin\Debug\netstandard2.0\Scarecrow.Core.pdb
+C:\xampp\htdocs\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.csprojAssemblyReference.cache
+C:\xampp\htdocs\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.AssemblyInfo.cs
+C:\xampp\htdocs\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.dll
+C:\xampp\htdocs\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.pdb
+C:\xampp\htdocs\Scarecrow\Scarecrow\backend\Scarecrow.Core\bin\Debug\netstandard2.0\Scarecrow.Core.deps.json
+C:\xampp\htdocs\Scarecrow\Scarecrow\backend\Scarecrow.Core\bin\Debug\netstandard2.0\Scarecrow.Core.dll
+C:\xampp\htdocs\Scarecrow\Scarecrow\backend\Scarecrow.Core\bin\Debug\netstandard2.0\Scarecrow.Core.pdb
+C:\xampp\htdocs\Scarecrow\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.csprojAssemblyReference.cache
+C:\xampp\htdocs\Scarecrow\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Scarecrow\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.AssemblyInfo.cs
+C:\xampp\htdocs\Scarecrow\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.dll
+C:\xampp\htdocs\Scarecrow\Scarecrow\backend\Scarecrow.Core\obj\Debug\netstandard2.0\Scarecrow.Core.pdb
